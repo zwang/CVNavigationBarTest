@@ -2,10 +2,10 @@
 A demo project for the animation issue when change navigation bar transparency back and forth.
 
 Issue Reproduct Step:
-1. Click one of the code block in the `Colors` view controller 
-2. Click back button
-3. Click one of the code block again.
-4. See the problem
+1.Click one of the code block in the `Colors` view controller 
+2.Click back button
+3.Click one of the code block again.
+4.See the problem
 
 The first time clicking one of the color blocks in `Colors` view controller, the animation of transition is good and as expected.
 However, when clicking one of the color blocks again after coming back from the second view controller, you can notice the 
